@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanchen Qu's Homepage"
+title: "Personal information"
 author_profile: true
 redirect_from: 
   - /about/
