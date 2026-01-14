@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+---
 I am a Master's student at Dalian Maritime University, with research interests in bioinformatics and data mining.
 ---
 Email1: qychen419848014@gmail.com
+
 Email2: qqqyc553728@dlmu.edu.cn
 
 ## Publications
