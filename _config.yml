@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Yanchen Qu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Dalian Liaoning"
+  bio              : ""
+  location         : "Dalian"
   employer         : "Dalian Maritime University"
   uri              : # URL
   email            : "qychen419848014@gmail.com" 
